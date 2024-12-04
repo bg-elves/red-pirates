@@ -1,5 +1,7 @@
 # Red Pirates Browser
 
+![Red Pirates Browser Preview](red-pirates-preview.png "Red Pirates Browser")
+
 ## Overview
 
 A revolutionary tool for maintaining online anonymity and independence, designed to combat Russian troll activity.
